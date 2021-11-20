@@ -1,0 +1,1 @@
+Osan 5 tehtäviin ratkaisut (lukuunottamatta 10, 21 ja 22)
